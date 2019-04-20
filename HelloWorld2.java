@@ -1,4 +1,4 @@
-package com.syne.learning.maven2;
+//package com.syne.learning.maven2;
 
 public class HelloWorld2 {
 
